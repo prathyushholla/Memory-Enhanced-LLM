@@ -1,4 +1,4 @@
-# llm-memories
+# Memory-Enhanced LLM
 
 This repository contains a project that integrates various memory modules with a language model (LLM) to improve conversation continuity, context retention, and information recall. The project is designed to showcase different memory types, including buffer memory, summary memory, and combination memory modules, enhancing the user interaction experience with large language models.
 
